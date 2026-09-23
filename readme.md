@@ -1,4 +1,4 @@
-
+command:
 git init - иницализация
 git status - статус репозитория
 git add file или . - добавить файл 
